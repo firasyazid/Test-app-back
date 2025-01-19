@@ -1,0 +1,15 @@
+ .env
+
+ __pycache__/
+*.pyc
+*.pyo
+
+ venv/
+env/
+.env/
+
+ .vscode/
+.idea/
+
+ .DS_Store  # macOS
+*.log       # Log files
